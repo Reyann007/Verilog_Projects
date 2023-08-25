@@ -1,2 +1,3 @@
 # Verilog_Projects
-This Repositiry
+This Repositiry contains the following verilog Projects.
+
